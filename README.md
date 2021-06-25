@@ -42,8 +42,8 @@ Example result =
 ```
 
 ## How to run this project on local environment
-1. Make sure [nodeJS](https://nodejs.org/en/download/) and [npm](https://nodejs.org/en/download/) installed on the local machine
+1. Make sure composer installed on the local machine
 2. Download or clone project to the local machine, example: ```D:\php-backend-test```
 3. Open command prompt on local machine and the directory must directed to the project, example: ```D:\php-backend-test>```
-4. Type ```npm install``` in command prompt and wait until finish
+4. Type ```composer install``` in command prompt and wait until finish
 5. Type ```php artisan serve``` in command prompt to start run server at http://localhost:8000
